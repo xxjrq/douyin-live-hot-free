@@ -1,0 +1,6 @@
+output/
+dist/
+.playwright-cli/
+assets/icon-source.png
+.DS_Store
+node_modules/
