@@ -1,6 +1,12 @@
 ---
 name: douyin-live-hot-free
 description: Search current Douyin Selected web results for any keyword through an existing Easy WebBridge browser session, then export structured JSON, Markdown, and a searchable HTML report. Use when an agent needs free Douyin keyword search, current topic discovery, visible result metadata, creator research, AI-tool content discovery, or a point-in-time search snapshot without a paid data API. Requires Easy WebBridge and an authorized Chromium browser session.
+license: MIT
+metadata:
+  author: xxjrq
+  version: "0.2.0"
+  runtime: "easy-webbridge >=0.3.2"
+  runtime-repository: "https://github.com/xxjrq/easy-webbridge"
 ---
 
 # Douyin Live Hot Free

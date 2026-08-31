@@ -15,5 +15,16 @@
   },
   "engines": {
     "node": ">=20"
-  }
+  },
+  "keywords": [
+    "agent-skill",
+    "douyin-search",
+    "douyin-trends",
+    "creator-research",
+    "easy-webbridge",
+    "claude-code",
+    "codex",
+    "opencode",
+    "workbuddy"
+  ]
 }
