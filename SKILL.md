@@ -4,7 +4,7 @@ description: Search current Douyin Selected web results for any keyword through 
 license: MIT
 metadata:
   author: xxjrq
-  version: "0.2.0"
+  version: "0.2.1"
   runtime: "easy-webbridge >=0.3.2"
   runtime-repository: "https://github.com/xxjrq/easy-webbridge"
 ---
