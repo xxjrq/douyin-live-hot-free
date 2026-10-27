@@ -1,6 +1,6 @@
 {
   "name": "douyin-live-hot-free",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Free Douyin keyword search reports through Easy WebBridge",
   "type": "module",
   "private": false,
